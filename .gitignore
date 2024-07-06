@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configs
+configs/*.ini
+
+# Data
+data/
